@@ -1,1 +1,1 @@
-# Stage02-Desafio02
+# Project Rocketseat - Stage 02 - Challenge 02
